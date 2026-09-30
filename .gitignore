@@ -1,0 +1,17 @@
+# SQL Server: chi luu script .sql
+*.[mM][dD][fF]
+*.[nN][dD][fF]
+*.[lL][dD][fF]
+*.[bB][aA][kK]
+
+# File tam cua Office va he dieu hanh
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Cau hinh ca nhan va bi mat
+.env
+.env.*
+!.env.example
+.vs/
